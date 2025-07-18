@@ -6,7 +6,7 @@ A smart, solar-powered floating marine device designed to **detect ghost fishing
 ---
 
 ## 🧩 Problem Statement
-create an wed where fisherman report plastic sightings or water quality issues, crowdsourcing pollution monitoring.
+create an web where fisherman report plastic sightings or water quality issues, crowdsourcing pollution monitoring.
 
 
 **Goal:** To develop a smart, low-cost, solar-powered marine monitoring device that automatically detects ghost nets and monitors pollution parameters like pH, turbidity, and TDS — providing real-time alerts and location tracking.
